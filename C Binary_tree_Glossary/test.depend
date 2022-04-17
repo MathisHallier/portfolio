@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1638652401 source:d:\utc_gi01\nf16\tp\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TP4.h"
+
+1638829837 d:\utc_gi01\nf16\tp\test\tp4.h
+
+1638950734 source:d:\utc_gi01\nf16\tp\test\tp4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TP4.h"
+

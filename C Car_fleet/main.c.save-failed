@@ -1,0 +1,66 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "ex1.h"
+#include "ex3.h"
+int main()
+{
+    char* marque=malloc(sizeof(char)*30);
+    int n;
+    a_Voiture voitures=(a_Voiture)malloc(sizeof(Voiture));
+
+    FILE * fichier;    // pointeur sur un fichier
+    fichier = fopen("Mots.txt","wb");    // ouvre le fichier si il existe ou le crée sinon "read" ; mettre wb pour écrire en binaire dans le fichier
+    if (fichier != NULL)
+    {
+        // On peut lire et écrire dans le fichier
+    }
+    else
+    {
+        // On affiche un message d'erreur si on veut
+        printf("Impossible d'ouvrir le fichier test.txt");
+    }
+    /*for (int j=0; j<5;j++){
+        fgets(test.txt,30,in);
+    printf("mot : %s \n",test);
+    }*/
+
+    fclose(in);   // fermer le fichier
+
+
+    printf("rentrez le nombre de voitures que vous souhaitez rentrer dans le parc : ");
+    scanf("%d",&n);
+    init(voitures, n);
+    printf("nous sommes revenus dans le main\n");
+    int k=0;
+    while(k==0)
+        k=Menu(voitures);
+     /*printf("rentrez l'immatrciualtion que vous cherchez : ");
+    scanf("%s",marque);
+    louer(marque,voitures);
+    printf("rentrez l'immatrciualtion que vous cherchez : ");
+    scanf("%s",marque);
+    louer(marque,voitures);
+
+    printf("nous sommes revenus dans le main\n");
+    etatParc(voitures);*/
+
+
+    //voitures->km = 5012;
+
+    //printf("%s",(voitures->modele))
+
+
+
+
+                                               /*
+                                                fgets( tableau, sizeof(tableau),stdin);
+                                              printf("%s",tableau); */
+
+
+
+    return 0;
+}
+
+
+// * prioritaire sur ++

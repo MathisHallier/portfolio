@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1635262258 source:d:\utc gi01\sr01\td\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ex1.h"
+	"ex3.h"
+
+1634663447 d:\utc gi01\sr01\td\test\ex1.h
+
+1634908369 source:d:\utc gi01\sr01\td\test\ex1.c
+	<stdio.h>
+	<stdlib.h>
+
+1634926034 source:d:\utc gi01\sr01\td\test\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	"ex3.h"
+
+1634925394 d:\utc gi01\sr01\td\test\ex3.h
+
+1635263667 source:c:\users\eliot\downloads\sr01\ex1.c
+	<stdio.h>
+	<stdlib.h>
+
+1635278559 source:c:\users\eliot\downloads\sr01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ex1.h"
+	"ex3.h"
+
+1635263667 c:\users\eliot\downloads\sr01\ex1.h
+
+1635277864 c:\users\eliot\downloads\sr01\ex3.h
+
+1635278643 source:c:\users\eliot\downloads\sr01\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	"ex3.h"
+
+1635456841 source:c:\users\eliot\downloads\sr012\ex1.c
+	<stdio.h>
+	<stdlib.h>
+
+1635458942 source:c:\users\eliot\downloads\sr012\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ex1.h"
+	"ex3.h"
+
+1635456841 c:\users\eliot\downloads\sr012\ex1.h
+
+1635456841 c:\users\eliot\downloads\sr012\ex3.h
+
+1635456842 source:c:\users\eliot\downloads\sr012\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	"ex3.h"
+
+1635453241 source:d:\eliott\cours gi01\sr01\sr01_dm\sr012\ex1.c
+	<stdio.h>
+	<stdlib.h>
+
+1635761529 source:d:\eliott\cours gi01\sr01\sr01_dm\sr012\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	"ex3.h"
+
+1635761529 d:\eliott\cours gi01\sr01\sr01_dm\sr012\ex3.h
+
+1635758981 source:d:\eliott\cours gi01\sr01\sr01_dm\sr012\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ex3.h"
+
+1635456841 d:\eliott\cours gi01\sr01\sr01_dm\sr012\ex1.h
+
+1635795785 source:c:\users\kira dadd\downloads\exo3 finito\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	"ex3.h"
+
+1635795792 c:\users\kira dadd\downloads\exo3 finito\ex3.h
+
+1635795794 source:c:\users\kira dadd\downloads\exo3 finito\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ex3.h"
+
